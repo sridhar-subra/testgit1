@@ -68,6 +68,11 @@ namespace Thread
             return 3;
         }
 
+        /// <summary>
+        /// comments1
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
             int i1 = 2 * 2;
